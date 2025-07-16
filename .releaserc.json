@@ -6,11 +6,6 @@
       "prerelease": false
     },
     {
-      "name": "staging",
-      "prerelease": "staging",
-      "channel": "staging"
-    },
-    {
       "name": "dev",
       "prerelease": "dev",
       "channel": "dev"
