@@ -6,6 +6,11 @@ on:
       - main
       - stage
       - dev
+  pull_request:
+    branches:
+      - "master"
+      - "stage"
+      - "dev"
 
 jobs:
   release:
