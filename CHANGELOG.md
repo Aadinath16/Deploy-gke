@@ -1,3 +1,12 @@
+# 1.0.0-dev.1 (2025-07-16)
+
+
+### Features
+
+* add branch ([4323667](https://github.com/Aadinath16/Deploy-gke/commit/4323667dd217e926eb7b997e945355e5c1a8773b))
+* add login ([9810b6a](https://github.com/Aadinath16/Deploy-gke/commit/9810b6af884b4d8dace6fada07661169114381c5))
+* add PR branch ([1ad6abe](https://github.com/Aadinath16/Deploy-gke/commit/1ad6abe359c5a445105a04a32c35ac9cde43d0f6))
+
 # 1.0.0-alpha.1 (2025-07-16)
 
 
