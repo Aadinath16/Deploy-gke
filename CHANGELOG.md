@@ -1,3 +1,10 @@
+# [1.0.0-dev.2](https://github.com/Aadinath16/Deploy-gke/compare/v1.0.0-dev.1...v1.0.0-dev.2) (2025-07-16)
+
+
+### Bug Fixes
+
+* changed branching ([a5ba95d](https://github.com/Aadinath16/Deploy-gke/commit/a5ba95d548f36c1742eeffb25e00c44a5084244b))
+
 # 1.0.0-dev.1 (2025-07-16)
 
 
